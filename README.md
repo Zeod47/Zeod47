@@ -1,16 +1,16 @@
-### Hi there 👋
+<h2 align= "center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+  Hi everyone, I'm Jorge
+</h2>
 
-<!--
-**Zeod47/Zeod47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align = "center">
+  Software Engineering Student at <a href = "https://www.epn.edu.ec"> EPN </a> 
+</p>
 
-Here are some ideas to get you started:
+- 💬 In a investigation to find out where a if goes...
+- 🌇 Learning wihout pause but wihout hurry.
+- 🔜 My goal is to found my own company.
+- 💝 I love playing videogames, everything is good but I prefer Soul's like games. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://steamuserimages-a.akamaihd.net/ugc/280722191113912623/15175D029458715E3E140644641574E3AE611B29/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+
