@@ -1,7 +1,8 @@
 <h2 align= "center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5px">
   Hi everyone, I'm Jorge
+  <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/432780e4-f104-4387-987f-8611d44dc1c4/d7w3kdu-b4ff86fa-6acd-412c-8a1f-c89f4b2a5e91.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzQzMjc4MGU0LWYxMDQtNDM4Ny05ODdmLTg2MTFkNDRkYzFjNFwvZDd3M2tkdS1iNGZmODZmYS02YWNkLTQxMmMtOGExZi1jODlmNGIyYTVlOTEuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.XRqCLgDpS_lncQwnfUan4pHxY6NlyIfapT437SFmK1I" width="60px" height="60px">
 </h2>
+
 
 <p align = "center">
   Software Engineering Student at <a href = "https://www.epn.edu.ec"> EPN </a> 
