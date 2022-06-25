@@ -12,6 +12,8 @@
 - 🌇 Learning wihout pause but wihout hurry.
 - 🔜 My goal is to found my own company.
 - 💝 I love playing videogames, everything is good but I prefer Soul's like games. 
+<h2 align = "center">
+  <img src= https://steamuserimages-a.akamaihd.net/ugc/280722191113912623/15175D029458715E3E140644641574E3AE611B29/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false width ="190px" height="190px">
+</h2>
 
-![](https://steamuserimages-a.akamaihd.net/ugc/280722191113912623/15175D029458715E3E140644641574E3AE611B29/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
